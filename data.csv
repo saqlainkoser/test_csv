@@ -2,4 +2,4 @@ name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,
 John Doe, http://example.com/johndoe.jpg, Marketing, http://example.com/johndoe, New York, Tag1|Tag2, true, Manager, 1, 0, 5
 Jane Smith, http://example.com/janesmith.jpg, Sales, http://example.com/janesmith, Los Angeles, Tag3|Tag4, false, Sales Representative, 2, 1, 10
 Emily Johnson, http://example.com/emilyjohnson.jpg, Development, http://example.com/emilyjohnson, Chicago, Tag5|Tag6, false, Developer, 3, 1, 15
-Michael Brown, http://example.com/michaelbrown.jpg, HR, http://example.com/michaelbrown, Houston, Tag7|Tag8, true, HR Manager, 4, 0, 20
+Michael Brown, http://example.com/michaelbrown.jpg, HR, http://example.com/michaelbrown, Houston, Tag7|Tag8, true, HR Manager, 4, 1, 20
